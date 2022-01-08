@@ -1,2 +1,3 @@
-# gal
-# gal
+# General Aviation Ledger
+File structure
+* docs : documentation
